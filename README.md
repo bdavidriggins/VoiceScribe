@@ -1,4 +1,4 @@
-Voice Transcribe
+##Voice Transcribe
 Effortless speech-to-text transcription for Ubuntu desktop
 Overview
 Voice Transcribe is a simple, keyboard-driven solution for transcribing spoken words to text. Using the Whisper model for accurate speech recognition, this tool allows users to trigger transcription with a global hotkey, automatically inserting the transcribed text into any active application.
